@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This article, we will add Cloud Firestore to a Flutter application, perform different read, write operation and use some queries to retrieve data.
 
 A few resources to get you started if this is your first Flutter project:
 
