@@ -1,4 +1,4 @@
-# flutter_firestore_demo
+# Flutter-Firestore
 
 A new Flutter project.
 
