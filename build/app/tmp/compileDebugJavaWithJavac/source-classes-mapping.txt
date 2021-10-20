@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/demo/flutterfirestore/flutter_firestore_demo/BuildConfig.java
+ com.demo.flutterfirestore.flutter_firestore_demo.BuildConfig
